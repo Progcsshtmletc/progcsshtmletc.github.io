@@ -29,7 +29,15 @@
     <h3 class="card-title">Цвета</h3>
     <p class="card-text">Обычно на сайте два цвета: ведущий и акцентный. Подобрать удачную цветовую пару можно за счёт насмотренности или специальных инструментов.</p>
     </div>
+<div class="card"><img src="https://pictures.s3.yandex.net/frontend-developer/free-course/card-3.jpg" class="card-image">
+    <h3 class="card-title">Шрифты</h3>
+    <p class="card-text">Не больше трёх шрифтов на сайт. Один для заголовков, второй — для всех остальных текстов, третий — для выделения важных слов. Должно хватить.</p>
+    </div>
+  <div class="card no-right-margin"><img src="https://442fz.volganet.ru/upload/iblock/0bc/unnamed.jpg" class="card-image">
+    <h3 class="card-title">Компьютер</h3>
+    <p class="card-text">Цифровая электронная машина, которая может быть запрограммирована на автоматическое выполнение последовательностей арифметических или логических операций</p>
+    </div>
 </section>
-  <footer class='footer'><h4 class="footer-author">Made by Vova Shcherbinin</h4></footer>
+  <footer class='footer'><h4 class="footer-author">Made by Vova</h4></footer>
 </body>
 </html>
