@@ -17,6 +17,7 @@
 }
 body {
   font-family: 'Helvetica', 'Arial', sans-serif;
+  background-color:#eee;
 }
 
 .header {
@@ -58,6 +59,7 @@ body {
   display:inline-block;
   margin-right:90px;
   box-shadow:4px 4px 5px rgba(250, 50, 50, .4);
+  background-color: rgb(255 255 255);
   }
 .no-right-margin{
   margin-right:0;
