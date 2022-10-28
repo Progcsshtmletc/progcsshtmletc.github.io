@@ -1,14 +1,13 @@
 let phrases = [
-  { text: 'РѕС‚РїСЂР°РІРёС‚СЊ РґСЂСѓРіСѓ СЃРјРµС€РЅСѓСЋ РіРёС„РєСѓ', image: 'https://code.s3.yandex.net/web-code/procrastinate/1.gif' },
-  { text: 'РїРѕСЃРјРѕС‚СЂРµС‚СЊ СЃРєРёРґРєРё РЅР° Р°РІРёР°Р±РёР»РµС‚С‹', image: 'https://code.s3.yandex.net/web-code/procrastinate/2.png' },
-  { text: 'СЂР°Р·РѕР±СЂР°С‚СЊСЃСЏ, Рѕ С‡С‘Рј РїРѕСЋС‚ СЂСЌРїРµСЂС‹', image: 'https://code.s3.yandex.net/web-code/procrastinate/3.png' },
-  { text: 'Р®СЂРёР№ Р”СѓРґСЊ', image: 'https://code.s3.yandex.net/web-code/procrastinate/4.png' },
-  { text: 'СЂР°СЃСЃС‚Р°РІРёС‚СЊ РєРЅРёРіРё РЅР° РїРѕР»РєРµ РїРѕ С†РІРµС‚Сѓ', image: 'https://code.s3.yandex.net/web-code/procrastinate/5.png' },
-  { text: 'С‡РёС‚Р°С‚СЊ РїСЂРѕ Р·Р°СЂРїР»Р°С‚С‹ РІ РЎР°РЅ-Р¤СЂР°РЅС†РёСЃРєРѕ', image: 'https://code.s3.yandex.net/web-code/procrastinate/6.png' },
-  { text: 'РїСЂРѕС‡РёС‚Р°С‚СЊ РЅРѕРІРѕСЃС‚Рё Рё СѓР¶Р°СЃРЅСѓС‚СЊСЃСЏ РІ РєРѕРјРјРµРЅС‚Р°СЂРёСЏС…', image: 'https://code.s3.yandex.net/web-code/procrastinate/7.png' },
-  { text: 'РїРѕРїР°СЃС‚СЊ РІ РїРѕС‚РѕРє РіСЂСѓСЃС‚РЅС‹С… РїРµСЃРµРЅ Рё РІСЃРїРѕРјРЅРёС‚СЊ РІСЃРµ РѕС€РёР±РєРё РјРѕР»РѕРґРѕСЃС‚Рё', image: 'https://code.s3.yandex.net/web-code/procrastinate/8.png' },
-  { text: 'РїРѕСЃРјРѕС‚СЂРµС‚СЊ С‚СЂРµР№Р»РµСЂ СЃРµСЂРёР°Р»Р° Рё Р·Р°РѕРґРЅРѕ РїРµСЂРІС‹Р№ СЃРµР·РѕРЅ', image: 'https://code.s3.yandex.net/web-code/procrastinate/9.png' },
-  { text: 'РїСЂРѕРІРµСЂРёС‚СЊ РЅРµРїСЂРѕС‡РёС‚Р°РЅРЅРѕРµ РІ Telegram-РєР°РЅР°Р»Р°С…', image: 'https://code.s3.yandex.net/web-code/procrastinate/10.png' }
+  { text: 'отправить другу смешную гифку', image: 'https://code.s3.yandex.net/web-code/procrastinate/1.gif' },
+  { text: 'посмотреть скидки на авиабилеты', image: 'https://code.s3.yandex.net/web-code/procrastinate/2.png' },
+  { text: 'разобраться, о чём поют рэперы', image: 'https://code.s3.yandex.net/web-code/procrastinate/3.png' },
+  { text: 'расставить книги на полке по цвету', image: 'https://code.s3.yandex.net/web-code/procrastinate/5.png' },
+  { text: 'читать про зарплаты в Сан-Франциско', image: 'https://code.s3.yandex.net/web-code/procrastinate/6.png' },
+  { text: 'прочитать новости и ужаснуться в комментариях', image: 'https://code.s3.yandex.net/web-code/procrastinate/7.png' },
+  { text: 'попасть в поток грустных песен и вспомнить все ошибки молодости', image: 'https://code.s3.yandex.net/web-code/procrastinate/8.png' },
+  { text: 'посмотреть трейлер сериала и заодно первый сезон', image: 'https://code.s3.yandex.net/web-code/procrastinate/9.png' },
+  { text: 'проверить непрочитанное в Telegram-каналах', image: 'https://code.s3.yandex.net/web-code/procrastinate/10.png' }
 ];
 
 function getRandomElement(arr) {
